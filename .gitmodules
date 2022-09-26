@@ -1,0 +1,57 @@
+[submodule "BSPD_2023"]
+	path = BSPD_2023
+	url = https://github.com/LonghornRacingElectric/BSPD_2023.git
+[submodule "BrakeLightController_2023"]
+	path = BrakeLightController_2023
+	url = https://github.com/LonghornRacingElectric/BrakeLightController_2023.git
+[submodule "Dashboard_2023"]
+	path = Dashboard_2023
+	url = https://github.com/LonghornRacingElectric/Dashboard_2023.git
+[submodule "Underglow_2023"]
+	path = Underglow_2023
+	url = https://github.com/LonghornRacingElectric/Underglow_2023.git
+[submodule "FanSpeedController_2023"]
+	path = FanSpeedController_2023
+	url = https://github.com/LonghornRacingElectric/FanSpeedController_2023.git
+[submodule "ShutdownCircuitIndicator_2023"]
+	path = ShutdownCircuitIndicator_2023
+	url = https://github.com/LonghornRacingElectric/ShutdownCircuitIndicator_2023.git
+[submodule "AccumulatorHUD_2023"]
+	path = AccumulatorHUD_2023
+	url = https://github.com/LonghornRacingElectric/AccumulatorHUD_2023.git
+[submodule "TelemetryController_2023"]
+	path = TelemetryController_2023
+	url = https://github.com/LonghornRacingElectric/TelemetryController_2023.git
+[submodule "TelemtryWatchdog_2023"]
+	path = TelemtryWatchdog_2023
+	url = https://github.com/LonghornRacingElectric/TelemtryWatchdog_2023.git
+[submodule "IMDModule_2023"]
+	path = IMDModule_2023
+	url = https://github.com/LonghornRacingElectric/IMDModule_2023.git
+[submodule "ADCModule"]
+	path = ADCModule
+	url = https://github.com/LonghornRacingElectric/ADCModule.git
+[submodule "FunctionalTestController_2023"]
+	path = FunctionalTestController_2023
+	url = https://github.com/LonghornRacingElectric/FunctionalTestController_2023.git
+[submodule "DCDC_2023"]
+	path = DCDC_2023
+	url = https://github.com/LonghornRacingElectric/DCDC_2023.git
+[submodule "AIL_2023"]
+	path = AIL_2023
+	url = https://github.com/LonghornRacingElectric/AIL_2023.git
+[submodule "TSCU_2023"]
+	path = TSCU_2023
+	url = https://github.com/LonghornRacingElectric/TSCU_2023.git
+[submodule "HVPCB_2023"]
+	path = HVPCB_2023
+	url = https://github.com/LonghornRacingElectric/HVPCB_2023.git
+[submodule "LVBattery_2023"]
+	path = LVBattery_2023
+	url = https://github.com/LonghornRacingElectric/LVBattery_2023.git
+[submodule "Contactor_2023"]
+	path = Contactor_2023
+	url = https://github.com/LonghornRacingElectric/Contactor_2023.git
+[submodule "TelemetryDatabase_2023"]
+	path = TelemetryDatabase_2023
+	url = https://github.com/LonghornRacingElectric/TelemetryDatabase_2023.git
