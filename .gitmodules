@@ -57,4 +57,4 @@
 	url = https://github.com/LonghornRacingElectric/TelemetryDatabase_2023.git
 [submodule "WheelspeedController2023"]
 	path = WheelspeedController2023
-	url = https://github.com/LonghornRacingElectric/WheelspeedController2023.git
+	url = https://github.com/LonghornRacingElectric/WheelspeedController2023
